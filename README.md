@@ -1,4 +1,4 @@
-<h1 align="center">Hello✌️, I am Kiryl</h1>
+<h1 align="center">Hello✌️</h1>
 
 ## About me
 I am a student at **Warsaw University of Technolog**y (3-rd year, Computer Science and Information Systems, Faculty of Math and Information Sciences). Moreover, I am a **Junior .NET developer** searching for work/internship opportunities. I am eager to learn and open to new things. If you want to discuss something with me or just grab a coffee - feel free to reach me.
