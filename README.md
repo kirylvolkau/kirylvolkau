@@ -11,7 +11,9 @@ Well, I as I am a .NET developer, my main stack consists of:
 * `ASP.NET Core (MVC, WebAPI, Blazor)`
 * `Entity Framework Core`
 * `MS SQL Server`, `T-SQL`
-* `WPF` 
+* `WPF`
+
+
 However, there are some other technologies I have experience working with: 
 <p>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/></a>
@@ -28,6 +30,8 @@ However, there are some other technologies I have experience working with:
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 <a href="https://travis-ci.org/"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis" width="50" height="50"/></a>
 </p>
+
+
 ## What about now?
 Right now I volunteer in different human rights organisations as a programmist and explore new stuff in the world of coding! For instance, I am learning [`F#`](https://fsharp.org/) and taking a course related to the `System Design`!
 <br/>
