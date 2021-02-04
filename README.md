@@ -29,6 +29,7 @@ However, there are some other technologies I have experience working with:
 <a href="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="50" height="50"/></a>
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 <a href="https://travis-ci.org/"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis" width="50" height="50"/></a>
+<a href="https://leafletjs.com/"><img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" alt="travis" width="50" height="50"/></a>
 </p>
 
 
