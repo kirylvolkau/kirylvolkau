@@ -6,7 +6,7 @@ I am a student at **Warsaw University of Technolog**y (3-rd year, Computer Scien
 * Instagram: **[erlobo](https://www.instagram.com/erlobo/)**.
 ## [📎CV - Click to view](KirylVolkau_CV.pdf)
 ## 👨🏻‍💻 What is my technology stack? 
-Well, I as I am a .NET developer, my main stack consists of: 
+Well, as I am a .NET developer, my main stack consists of: 
 * `C# `
 * `ASP.NET Core (MVC, WebAPI, Blazor)`
 * `Entity Framework Core`
