@@ -4,6 +4,7 @@
 I am a student at **Warsaw University of Technolog**y (3-rd year, Computer Science and Information Systems, Faculty of Math and Information Sciences). Moreover, I am a **Junior .NET developer** searching for work/internship opportunities. I am eager to learn and open to new things. If you want to discuss something with me or just grab a coffee - feel free to reach me.
 * Email: **volkaukiryl@gmail.com** 
 * Instagram: **[erlobo](https://www.instagram.com/erlobo/)**.
+## [📎CV - Click to view](KirylVolkau_CV.pdf)
 ## 👨🏻‍💻 What is my technology stack? 
 Well, I as I am a .NET developer, my main stack consists of: 
 * `C# `
