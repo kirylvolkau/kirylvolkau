@@ -33,7 +33,7 @@ However, there are some other technologies I have experience working with:
 
 
 ## What about now?
-Right now I volunteer in different human rights organisations as a developer and explore new stuff in the world of coding! For instance, I am learning [`F#`](https://fsharp.org/) and taking a course related to the `System Design`!
+Right now I volunteer in different human rights organisations as a developer and explore new stuff in the world of coding. For instance, I am learning [`F#`](https://fsharp.org/) and taking a course related to the `System Design`!
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirylvolkau&langs_count=10theme=buefy&layout=compact)
 
