@@ -26,10 +26,8 @@ However, there are some other technologies I have experience working with:
 <a href="https://dotnet.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="50" height="50"/></a>
 <a href="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="50" height="50"/></a>
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
-
-
-
-
+<a href="https://travis-ci.org/"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis" width="50" height="50"/></a>
+</p>
 ## What about now?
 Right now I volunteer in different human rights organisations as a programmist and explore new stuff in the world of coding! For instance, I am learning [`F#`](https://fsharp.org/) and taking a course related to the `System Design`!
 <br/>
