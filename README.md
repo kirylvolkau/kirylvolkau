@@ -1,7 +1,7 @@
 <h1 align="center">Hello✌️</h1>
 
 ## About me
-I am a student at **Warsaw University of Technolog**y (3-rd year, Computer Science and Information Systems, Faculty of Math and Information Sciences). Moreover, I am a **Junior .NET developer** searching for work/internship opportunities. I am eager to learn and open to new things. If you want to discuss something with me or just grab a coffee - feel free to reach me.
+I am a student at **Warsaw University of Technology** (3-rd year, Computer Science and Information Systems, Faculty of Math and Information Sciences). Moreover, I am a **Junior .NET developer** at Inspeerity Sp.z.o.o. I am eager to learn and open to new things. If you want to discuss something with me or just grab a coffee - feel free to reach me.
 * Email: **volkaukiryl@gmail.com** 
 * Instagram: **[erlobo](https://www.instagram.com/erlobo/)**.
 ## [📎CV - Click to view](KirylVolkau_CV.pdf)
