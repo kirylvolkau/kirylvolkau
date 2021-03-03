@@ -1,20 +1,10 @@
 <h1 align="center">Hello✌️</h1>
 
 ## About me
-I am a student at **Warsaw University of Technology** (3-rd year, Computer Science and Information Systems, Faculty of Math and Information Sciences). Moreover, I am a **Junior .NET developer** at Inspeerity Sp.z.o.o. I am eager to learn and open to new things. If you want to discuss something with me or just grab a coffee - feel free to reach me.
-* Email: **volkaukiryl@gmail.com** 
-* Instagram: **[erlobo](https://www.instagram.com/erlobo/)**.
+* **Computer Science student** at **Warsaw University of Technology** (3-rd year, Faculty of Math and Information Sciences).
+* **Junior .NET developer** at Inspeerity Sp.z.o.o. 
 ## [📎CV - Click to view](KirylVolkau_CV.pdf)
-## 👨🏻‍💻 What is my technology stack? 
-Well, as I am a .NET developer, my main stack consists of: 
-* `C# `
-* `ASP.NET Core (MVC, WebAPI, Blazor)`
-* `Entity Framework Core`
-* `MS SQL Server`, `T-SQL`
-* `WPF`
-
-
-However, there are some other technologies I have experience working with: 
+## 👨🏻‍💻 Technology stack:
 <p>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="redux" width="50" height="50"/></a>
@@ -32,10 +22,10 @@ However, there are some other technologies I have experience working with:
 <a href="https://leafletjs.com/"><img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" alt="travis" width="50" height="50"/></a>
 </p>
 
-
-## What about now?
-Right now I volunteer in different human rights organisations as a developer and explore new stuff in the world of coding. For instance, I am learning [`F#`](https://fsharp.org/) and taking a course related to the `System Design`!
-<br/>
+## Reach me out
+In case you would like to contact me on some professional/personal/beer matter:
+* Email: **volkaukiryl@gmail.com** 
+* Instagram: **[erlobo](https://www.instagram.com/erlobo/)**.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirylvolkau&theme=onedark&hide=html" />  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kirylvolkau&show_icons=true&theme=onedark&line_height=27"/>
