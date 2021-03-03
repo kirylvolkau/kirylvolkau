@@ -5,6 +5,13 @@
 * **Junior .NET developer** at Inspeerity Sp.z.o.o. 
 ## [📎CV - Click to view](KirylVolkau_CV.pdf)
 ## 👨🏻‍💻 Technology stack:
+#### Languages: 
+<p>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./csharp.png" alt="csharp" width="50" height="50"/></a>
+<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/></a>
+</p>
+
+#### Frameworks: 
 <p>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="redux" width="50" height="50"/></a>
@@ -13,7 +20,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="50" height="50"/></a>
 <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/></a>
-<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/></a>
 <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/></a>
 <a href="https://dotnet.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="50" height="50"/></a>
 <a href="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="50" height="50"/></a>
