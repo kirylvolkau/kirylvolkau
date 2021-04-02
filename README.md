@@ -18,6 +18,7 @@
 <a href="https://dotnet.microsoft.com/download"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="netcore" width="50" height="50"/></a>
 <a href="https://dotnet.microsoft.com/download"><img src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png" alt="efnetcore" width="95" height="50"/></a>
 <a href="https://dotnet.microsoft.com/download"><img src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png" alt="aspnetcore" width="85" height="50"/></a>
+<a href="https://xunit.net/"><img src="https://avatars.githubusercontent.com/u/2092016?s=400&v=4" alt="xunit" width="50" height="50"/></a>
 <a href="https://avaloniaui.net/"><img src="https://avatars.githubusercontent.com/u/14075148?s=280&v=4" alt="avaloniaui" width="50" height="50"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="redux" width="50" height="50"/></a>
 <a href="https://reduxjs.org/" target="_blank"><img src="https://redux.js.org/img/redux.svg" alt="react" width="50" height="50"/></a>
