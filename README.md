@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h3> <img align="right" height="200" weight="200" src="https://octodex.github.com/images/yogitocat.png"/>
+<h3>Hi there 👋</h3>
 
 - 👨‍💻 Working at [Inspeerity](https://inspeerity.com/) as a .NET developer 
 - 👨‍🎓 Studying at [WUT](https://pw.edu.pl/engpw)
