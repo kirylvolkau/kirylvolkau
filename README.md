@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-- 👨‍💻 Working at [Allegro](https://allegro.pl) as a Software Engineer
+- 👨‍💻 Working at @Allegro as a Software Engineer
 - 👨‍🎓 Studying at [WUT](https://pw.edu.pl/engpw)
 - 🖥 I’m currently learning system design and trying to learn Rust 
 - ❤️ Volunteering, photography, reading, trying to do some sports (key word is **trying**) 
